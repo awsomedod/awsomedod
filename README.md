@@ -18,9 +18,11 @@ Here are a few things I've picked up along my learning journey.
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
  
-![Ras Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-C51A4A?style=for-the-badge&logo=flask) ![SQL](https://img.shields.io/badge/-PostgreSQL-00979D?style=for-the-badge&logo=postgresql&logoColor=white)  
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/amarkhanshali)    [![Website](https://img.shields.io/badge/Website-Check%20out%20my%20website-blue)](https://www.amarkhanshali.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/amarkhanshali)
+
+or shoot me an email ➡️ sabaghmelad@gmail.com.  
 
 <!--
 **awsomedod/awsomedod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
