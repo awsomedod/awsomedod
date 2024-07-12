@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Computer Science graduate from the University of California, Berkeley. I have a passion for problem-solving and continuously expanding my knowledge. I am always enthusiastic about working on projects that enable me to experiment with new technologies, languages, and concepts. I am passionate about Machine Learning and backend development to address various challenges. Some of the projects that I have worked on are summarized below.
+
 <!--
 **awsomedod/awsomedod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
