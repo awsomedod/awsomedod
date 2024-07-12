@@ -8,17 +8,13 @@ I am a Computer Science graduate from the University of California, Berkeley. I 
 
 Here are a few things I've picked up along my learning journey.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-C51A4A?style=for-the-badge&logo=flask) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![SQL](https://img.shields.io/badge/-PostgreSQL-00979D?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+![PyTorch](https://img.shields.io/badge/PyTorch-039BE5?style=for-the-badge&logo=pytorch&logoColor=white) ![Numpy](https://img.shields.io/badge/NumPy-3DDC84.svg?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-39477F?style=for-the-badge&logo=pandas&logoColor=white)
 
-![Flask](https://img.shields.io/badge/Flask-C51A4A?style=for-the-badge&logo=flask) ![SQL](https://img.shields.io/badge/-PostgreSQL-00979D?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-![PyTorch](https://img.shields.io/badge/PyTorch-039BE5?style=for-the-badge&logo=pytorch&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-39477F?style=for-the-badge&logo=pandas&logoColor=white)
-
-![Numpy](https://img.shields.io/badge/NumPy-3DDC84.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
